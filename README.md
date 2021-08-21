@@ -7,7 +7,6 @@ Module 9 Challenge Analysis File Links
 In preparation for starting a Surf n' Shake shop in Hawaii, which will serve ice cream and surf board services for local customers and tourists, this analysis explores weather patterns to ensure that the island of Oahu is the optimal location to open shop. Various weather metrics are explored to determine if this business will be sustainable year-round, specifically looking into data in the months of June and December. 
 
 ## Results
-3 major points/differences in weather between June/Dec from 2 analysis deliverables (using images as support)
 
 ![Screenshot](https://github.com/aseo67/surfs_up/blob/main/Screenshot_June%20Temps%20Stats.png)
 ![Screenshot](https://github.com/aseo67/surfs_up/blob/main/Screenshot_Dec%20Temps%20Stats.png) 
