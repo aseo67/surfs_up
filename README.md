@@ -29,9 +29,11 @@ Precipitation data between the two months are similar, with average precipitatio
 
 ### Top Stations' Weather Data
 To gain insight into weather data at a station-level, this additional analysis first parses out which stations produced the most weather entries in the months of June and December. Here we see that stations 'USC00519397', 'USC00519281', 'USC00513117' had the most activity in June, whereas in December it was from station 'USC00519281'.
+
 ![Screenshot](https://github.com/aseo67/surfs_up/blob/main/Screenshot_June%20Active%20Stations.png)
 ![Screenshot](https://github.com/aseo67/surfs_up/blob/main/Screenshot_Dec%20Active%20Stations.png)
 
 Focusing on the top station from each month, the minimum, maximum, and average temperatures and precipitation amounts were retrieved. Here we observe that the top station in June does have higher temperatures overall across the board, vs. the top station from December. Similarly, for precipitation, while the average rainfall from the top station in December isn't too far off from the top station in June, the maximum rainfall is significantly more. 
+
 ![Screenshot](https://github.com/aseo67/surfs_up/blob/main/Screenshot_June%20Top%20Station%20Stats.png)
 ![Screenshot](https://github.com/aseo67/surfs_up/blob/main/Screenshot_Dec%20Top%20Station%20Stats.png)
