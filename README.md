@@ -17,12 +17,12 @@ In preparation for starting a Surf n' Shake shop in Hawaii, which will serve ice
 
 ## Summary
 ### Summary of Results
-Overall, the temperature analysis so far seems to indicate that weather will be favorable for an ice cream/surf shop, even in the winter time. Lower temperature swings may require some strategizing to make use of the shorter warm timeframes of the day in the winter vs. the summer, but the average and maximum temperature data suggests that temperature is still similar to the summer time and feasible for this shop. 
+Overall, the temperature analysis so far seems to indicate that weather will be favorable for an ice cream/surf shop, even in the winter time. Lower temperature swings may require some strategizing to make use of the shorter warm timeframes of the day in the winter vs. the summer, but the average and maximum temperature data suggests that overall temperature trends are still similar to the summer time and feasible for this shop. 
 
 Some additional analysis has also been conducted to explore (1) the precipitation in June vs. December, and (2) analyzing the weather data at a station-level by identifying top stations in these months and the respective top station's weather data. 
 
 ### Precipitation
-Precipitation data between the two months are similar, with average precipitation amounts of 0.1 in June vs. 0.2 in December. This suggests that rain isn't common in Oahu, regardless of the season. However, when it does rain, the heaviest rainfall does seem to occur in the winter time, as the results show maximum precipitation amounts of 4.4 in June vs. 6.4 in December; thus, heavy rain days may need to be better prepped for in the winter time. 
+Precipitation data between the two months are similar, with average precipitation amounts of 0.1 in June vs. 0.2 in December. This suggests that rain isn't common in Oahu, regardless of the season. However, when it does rain, the heaviest rainfall does seem to occur in the winter time, as the results show maximum precipitation amounts of 4.4 in June vs. 6.4 in December; thus, heavy rain days may need to be better prepared for in the winter time. 
 
 ![Screenshot](https://github.com/aseo67/surfs_up/blob/main/Screenshot_June%20Precip%20Stats.png)
 ![Screenshot](https://github.com/aseo67/surfs_up/blob/main/Screenshot_Dec%20Precip%20Stats.png)
